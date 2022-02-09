@@ -1,0 +1,112 @@
+
+ OS Version: 3.10.49-gd043ad1-00008-gbcf239c(1)
+ OS API Level: 25
+ Device: lux
+ Model (and Product): XT1562 (lux_reteu)
+ RELEASE: 7.1.1
+ BRAND: motorola
+ DISPLAY: NPD26.48-24-1
+ CPU_ABI: armeabi-v7a
+ CPU_ABI2: armeabi
+ UNKNOWN: unknown
+ HARDWARE: qcom
+ Build ID: NPD26.48-24-1
+ MANUFACTURER: motorola
+ SERIAL: ZY2224WRKV
+ USER: hudsoncm
+ HOST: ilclbld31
+ _id:58 thread_id:339 address:54321 person:null date:1637073995493 date_sent:1637073954000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:שלום, וברוכים הבאים לרשת we4G! המכשיר מוכן לשימושכם ללא כל פעולה נוספת. רק אם לא הצלחתם לגלוש, שלחו SMS עם המילה 'הגדרות' למספר 555. לכל שאלה ניתן לפנות אלינו ב-5166*  مرحبا، وأهلا وسهلا بك بشبكة we4g. جهازك مهيأ ومعد للاستخدام اذا كنت لا تستطيع التصفح او تواجه مشاكل بالدخول الى الشبكه الرجاء منك ارسال كلمة 'הגדרות' برساله نصيه (sms) الى الرقم 555.   لكل توجه او استفسار الرجاء الاتصال لخدمة الزبائن على الرقم *5166 service_center:+972510000030 failure_cause:-1 locked:0 sub_id:8 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:57 thread_id:337 address:WhatsApp person:null date:1576172070017 date_sent:1576172068000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:<#> קוד ה-WhatsApp שלך: ‎199-465
+אין לשתף קוד זה
+4sgLq1p5sV6 service_center:+46731210228 failure_cause:-1 locked:0 sub_id:5 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:56 thread_id:336 address:610 person:null date:1576160629583 date_sent:1576160566000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:לקוח יקר, מיד יתקבלו במכשירך הודעות לעדכון הגדרות גלישה, אנא לחץ על "התקן" או "אשר". בנוסף יש להפעיל את שירות נדידת נתונים במכשירך. לפרטים נוספים: http://bit.ly/1TjVx80 בברכה, HOTmobile
+ service_center:+97253989999 failure_cause:-1 locked:0 sub_id:5 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:55 thread_id:333 address:Google person:null date:1554889795593 date_sent:1554893394000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:‏G-348263 הוא קוד האימות שלך ב-Google. service_center:+972521100059 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:54 thread_id:329 address:readnow person:null date:1554820164894 date_sent:1554830963000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:ממשיכים בדרכו - מגשימים את צוואתו:  קראו את טור הדעה החשוב שיוסי שריד ז"ל כתב לבוחרי מרצ: https://019sms.co.il/pi/c83bd
+
+
+בלי מרצ - ביבי מנצח
+אין מהפך בלי מרצ
+____
+
+להסרה השב/י הסר למספר 0723927704
+ service_center:+972559900020 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:53 thread_id:328 address:GESHER person:null date:1554810184878 date_sent:1554820982000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:את מי זרקו מוועדות הכנסת אבל לא מספרי ההיסטוריה?
+מי באמת חוקקה 91 חוקים, הייתה פרלמנטרית מצטיינת, ובכל זאת לא מבקשת שיבחרו בה בעבור זה? כל הפרטים כאן https://bit.ly/2D3kP87
+
+ להסרה: hasr.co.il/rm/MIFWT service_center:+972559900020 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:52 thread_id:327 address:AmnonMeretz person:null date:1554806027681 date_sent:1554809624000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:אמנון אברמוביץ: ״הגוש מאוד חשוב, מרצ היא הפילבוקס של הגוש. אם מרצ נפלה - נפל הגוש״. בלי מרצ - ביבי מנצח. מי שרוצה מהפך חייב להצביע מרצ כדי לוודא שלא יהיו תקלות. אין מהפך בלי מרצ. צפו בדבריו של אמנון אברמוביץ: http://bit.ly/2Kitd9O
+___
+להסרה השב/י הסר למספר 0723927704 service_center:+972723800002 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:51 thread_id:326 address:votemerez person:null date:1554789276905 date_sent:1554792874000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:זהו בוקר גורלי.
+כל הסקרים מוכיחים: מרצ נמצאת באזור המסוכן.
+בלי מרצ - ביבי מנצח. 
+רק קול למרצ הוא תעודת ביטוח למהפך.
+
+אין מהפך בלי מרצ
+__ 
+להסרה השב/י הסר למספר 0723927704 service_center:+972723800002 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:50 thread_id:325 address:WATCHNOW person:null date:1554747124727 date_sent:1554750717000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:אל תתנו לזה לקרות, צפו בסרטון שמזהיר מפני התקלה האפשרית:
+https://youtu.be/8s6cL7QsleQ
+
+בלי מרצ - ביבי מנצח
+-----------
+אין מהפך בלי מרצ
+להסרה השיבו הסר למספר 0723927704 service_center:+972723800002 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:49 thread_id:324 address:VOTE0904 person:null date:1554734741180 date_sent:1554745521000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:כשאנחנו בוחרים ובוחרות אנחנו חושבים על העתיד שלנו. לכן חשוב לקבל את הבחירה הנכונה.
+בטוח/ה ששמת את הפתק הנכון?
+אם נטעה הסיוט הגדול ביותר שלנו עלול להתגשם.
+צפו:
+https://youtu.be/L5e1WWZJMZI
+
+בלי מרצ ביבי מנצח.
+אין מהפך בלי מרצ.
+
+להסרה השב/י הסר למספר 0723927704 service_center:+972559900020 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:48 thread_id:323 address:MERETZLIVE person:null date:1554729951842 date_sent:1554740731000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:הצטרפו לשידור החי של הנבחרת הכי מגוונת בישראל:
+בואו לראות בלייב את ברית הקהילות של מרצ עונה לכם על כל השאלות ופותרת לכם את כל ההתלבטויות. מעכשיו ועד השעה 21:00 : http://bit.ly/MRZLIVE
+
+בלי מרצ ביבי מנצח
+אין מהפך בלי מרצ
+
+להסרה השב הסר למספר 0723927704 service_center:+972559900020 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:47 thread_id:320 address:039113000 person:null date:1554707166783 date_sent:1554707165000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:שים לב! פנייה 418188 לקוח ביה"ס רבי עקיבא, מועד סיום הטיפול בפנייה עד 08/04/2019 12:00 service_center:+972500200011 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:46 thread_id:320 address:039113000 person:null date:1554707155591 date_sent:1554707153000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:שים לב! פנייה 418194 לקוח ביה"ס רבי עקיבא, מועד סיום הטיפול בפנייה עד 08/04/2019 12:00 service_center:+972500200011 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:45 thread_id:319 address:MERETZ61 person:null date:1554632781348 date_sent:1554643579000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:בלי מרצ - ביבי מנצח.
+כל הסקרים קובעים, כדי להגיע לגוש חוסם חייבים מרצ חזקה. 
+אין מהפך בלי מרצ.
+
+צפו:
+https://youtu.be/T4-DzJcRQKk
+
+להסרה השיבו הסר למספר 0723927704. service_center:+972559900020 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:44 thread_id:318 address:AviGabbay person:null date:1554632330040 date_sent:1554643126000 protocol:0 read:0 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:חשוב לי שתראו את חברי הכנסת הכי טובים בישראל.  
+
+***
+איך סתיו שפיר ואיציק שמולי נלחמו למענך : https://bit.ly/2VwW6QY
+
+איך טל רוסו, שלי יחימוביץ' ועמיר פרץ הולכים עם האמת שלהם: https://bit.ly/2VwW6QY
+
+איך אני הלכתי עם האמת שלי: https://bit.ly/2VwW6QY
+
+***
+חוזרים לדרך. חוזרים לעבודה.
+--
+ להסרה: hasr.co.il/rm/CuNqg service_center:+972559900020 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:41 thread_id:313 address:+972506799139 person:null date:1554368028350 date_sent:1554368028000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:החלמה מהירה  service_center:+97253989999 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:39 thread_id:313 address:+972506799139 person:null date:1554367730318 date_sent:1554367727000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:שלום לך אתה בא היום? service_center:+97253989999 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:38 thread_id:310 address:+972547034455 person:416 date:1554137502674 date_sent:1554137500000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body: בתפילה כבר חוזר
+ service_center:+972500200011 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:27 thread_id:301 address:AppCard person:null date:1553165334583 date_sent:1553165330000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:תודה על פנייתך מצורף כרטיס ביקור דיגיטאלי שלי        https://www.appcard.co.il/shaharnadlan/ service_center:+97254120745 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:14 thread_id:279 address:BezeqInt person:null date:1552208342840 date_sent:1552215539000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:לקוח עסקי יקר, בהמשך לשיחתך עם המוקד של בזק בינלאומי לעסקים, נשמח אם תוכל להשיב על שתי שאלות בקישור הבא: https://survey.bezeqint.net/WebSurveys/1393582e70 service_center:+972559900020 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:12 thread_id:278 address:+972538779774 person:41 date:1552116387206 date_sent:1552116385000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:לא נקבתי שעה
+אמרתי בבוקר service_center:+97254120032 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:8 thread_id:278 address:+972538779774 person:41 date:1552116318103 date_sent:1552116313000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:בוקר טוב
+יש מצב לבאקה?  service_center:+97254120032 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
+ _id:7 thread_id:277 address:+972723944612 person:null date:1552043372911 date_sent:1552043369000 protocol:0 read:1 status:-1 type:1 callback_number:null reply_path_present:0 subject:null body:במרצ כל יום הוא יום האישה. 
+צפי עכשיו בסרטון החדש של מרצ 
+ http://lp6.me/s2PU0_liOYN 
+
+יום האישה שמח
+לתמיכה השיבי 1
+להסרה השיבי הסר service_center:+972521100059 failure_cause:-1 locked:0 sub_id:4 stack_type:0 error_code:0 creator:com.google.android.apps.messaging seen:1 pri:0 rcs_message_id:null rcs_extra:0 rcs_timestamp_delivered:0 rcs_timestamp_displayed:0 rcs_alias_name:null rcs_message_type:0
